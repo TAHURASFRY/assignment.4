@@ -6,4 +6,4 @@ col = n
 for i in range(m):
     print()
     for j in range(n):
-     print('*' , end=' ')
+     print('*', '#' , end=' ')
